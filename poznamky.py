@@ -1,5 +1,5 @@
 #nacitani od uzivatele
-cislo=input
+cislo=input("zadej cislo")
 
 #pretypovani
 cislo=int(input("Zadej cislo"))
